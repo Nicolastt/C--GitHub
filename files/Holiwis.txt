@@ -1,1 +1,1 @@
-El dia de hoy visitaremos Git.
+El dia de hoy no visitaremos Git, vamos a ir a otro lugar.
